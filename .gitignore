@@ -5,3 +5,6 @@
 !*.v
 !*.sv
 !*.tcl
+
+!src
+!sim
